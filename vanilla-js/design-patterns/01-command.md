@@ -2,7 +2,7 @@
 
 We can _decouple_ objs that execute a task from the obj that calls the method.
 
-Example:
+### Example
 
 ```js
 class OrderManager() {
